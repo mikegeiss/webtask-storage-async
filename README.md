@@ -1,0 +1,1 @@
+Wrapper for Webtask Storage to allow async access
